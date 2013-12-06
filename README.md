@@ -11,3 +11,6 @@ I alterated the Extension interactive poetry, found on http://inform7.com/extens
 Interactive narratives. 
 
 Here is my extension and part of a game I was writting. 
+
+
+The original source code of my code is not accessible at the moment. I january 2014 I will recover it.
