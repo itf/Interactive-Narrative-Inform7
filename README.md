@@ -3,7 +3,7 @@ Interactive-Narrative-Inform7
 
 Text based game — Interactive narrative — Language: inform7
 
-You can test the game on: http://parchment.googlecode.com/svn/trunk/parchment.html?story=https%3A//github.com/itf/Interactive-Narrative-Inform7/blob/master/aloneinthedarkness-final.z8.js
+You can test the game on: http://iplayif.com/?story=https%3A//raw.github.com/itf/Interactive-Narrative-Inform7/master/aloneinthedarkness.z8.js
 
 
 I'm interested in text based games and the game "The Space Under the Window", an experimental Interactive Fiction,
